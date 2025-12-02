@@ -1,0 +1,19 @@
+Combien de jours dans une année non bissextile ?,365,science
+Quel est le carré de 12 ?,144,math
+Combien de lettres dans le mot 'ordinateur' ?,10,français
+En quelle année Christophe Colomb a-t-il découvert l'Amérique ?,1492,histoire
+Combien d'états composent les États-Unis ?,50,géographie
+Quel est le résultat de 8 * 7 ?,56,math
+Combien de couleurs dans l'arc-en-ciel ?,7,science
+Combien de côtés a un hexagone ?,6,math
+Combien de syllabes dans le mot 'éléphant' ?,3,français
+Quelle est la valeur de pi arrondie à 3 chiffres ?,3.14,math
+En quelle année a eu lieu la Révolution française ?,1789,histoire
+Combien de planètes dans le système solaire ?,8,science
+Quel est le résultat de 100/4 ?,25,math
+Combien d'os dans le corps humain ?,206,science
+Combien de lettres dans l'alphabet français ?,26,français
+Quel est le produit de 15 et 3 ?,45,math
+Combien d'années dans un siècle ?,100,histoire
+Quel est le nombre premier le plus petit ?,2,math
+Combien de jours dans une semaine ?,7,science
