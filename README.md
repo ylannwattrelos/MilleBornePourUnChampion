@@ -10,7 +10,7 @@
 *Mille Borne pour un champion* est une adaptation informatique ludo-pédagogique du classique jeu de cartes « Mille Bornes ». Jouable entièrement dans le terminal, le jeu consiste à parcourir une distance de 1000 bornes en gérant les obstacles et événements sur votre chemin tout en réalisant des stratégies pour ralentir vos adversaires.
 
 *(Des captures d'écran illustrant le fonctionnement du jeu sont disponibles dans le répertoire `shots/`)*
-![Capture d'écran du jeu](shots/nom_de_ton_image_principale.png)
+![Capture d'écran du jeu](shots/accueil.png)
 
 ---
 
