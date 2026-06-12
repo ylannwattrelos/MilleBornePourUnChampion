@@ -48,3 +48,15 @@ Assurez-vous que votre environnement respecte les prérequis suivants :
 Dans un terminal, à la racine du projet, exécutez :
 ```bash
 ./compile.sh
+```
+Cette commande compile les fichiers situés dans le répertoire `src/` et génère les exécutables dans `classes/`.
+
+### 2. Lancement du jeu
+
+Une fois la compilation terminée, lancez le jeu avec :
+```bash
+./run.sh
+```
+
+Amusez-vous bien
+
